@@ -1,0 +1,33 @@
+TREE
+FREE
+FLEE
+FLEA
+LEAF
+WILD
+WARM
+COLD
+CORD
+CARD
+WARD
+STONE
+SMILE
+PLANE
+CRANE
+PRICE
+PRIDE
+STORE
+SHORE
+LOVE
+HATE
+NOTE
+GIVE
+TAKE
+GOOD
+SAFE
+HARD
+SCORE
+TRAIN
+BRAIN
+
+# Replace this placeholder with a full TWL06/SOWPODS uppercase list
+# (one English word per line) for full dictionary coverage.
