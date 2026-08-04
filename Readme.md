@@ -85,9 +85,3 @@ Open: `http://127.0.0.1:8000/docs`
 - Live Demo: [word-jungle-x9dx.vercel.app](https://word-jungle-x9dx.vercel.app/)
 
 ---
-
-## License
-
-MIT License - Free to use for learning!
-
----
