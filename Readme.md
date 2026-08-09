@@ -79,7 +79,7 @@ Open: `http://127.0.0.1:8000/docs`
 
 ## Author
 
-**Samruddhi Jain**
+**Samruddhi Jain**, **Avni Gupta**,**Pranav mantri**
 - Student at NMIMS University
 - GitHub: [Samruddhijain1](https://github.com/Samruddhijain1)
 - Live Demo: [word-jungle-x9dx.vercel.app](https://word-jungle-x9dx.vercel.app/)
